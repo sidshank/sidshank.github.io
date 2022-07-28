@@ -1,2 +1,38 @@
-theme: jekyll-theme-slate
 title: Sid's GitHub page
+github_username: sidshank
+remote_theme: benbalter/retlab
+lang: en-US
+
+# Pages to include in header navigation
+#nav_pages:
+#  - frameworks.md
+
+# Pages to include in footer navigation
+#footer_pages:
+#  - books.md
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/SidShankar_
+    icon: twitter
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/engineer-sid-shankar/
+    icon: linkedin
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
