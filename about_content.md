@@ -1,9 +1,3 @@
-![Sid enjoying the view from the Miradouro de Santa Luzia, overlooking tiled roofs and churches in the Alfama neighbourhood of Lisbon, as well as the Tejo estuary](/images/Sid-in-Lisbon.jpeg){:class="img-responsive"}
-
-Hello World! I'm currently a Senior Engineering Manager at [GitHub](http://github.com/) on one of the [CodeQL](https://codeql.github.com/) static language teams supporting C# and Go. 
-
-### Some things about me
-
 - 🌆 I grew up living in multiple cities across India. Primarily Bengaluru, New Delhi and Mumbai.
 - 🛫 🇺🇸 I moved to the US in 2006 to pursue a Master's degree in Electrical Engineering - Control Systems at the [University of Michigan, Ann Arbor](https://umich.edu/).
 - 👨‍💻 During my graduate program, my interests shifted towards software engineering, software-hardware interfaces, and programming languages. This led me to a full time role at [MathWorks](https://www.mathworks.com/).
