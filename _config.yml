@@ -6,6 +6,7 @@ lang: en-US
 # Pages to include in header navigation
 nav_pages:
   - about.md
+  - favourite-frameworks.md
 
 # Pages to include in footer navigation
 #footer_pages:
