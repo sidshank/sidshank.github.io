@@ -22,7 +22,7 @@ What it gives me that makes it so important:
 
 1. We celebrate each other
 2. We support each other when things go wrong
-3. We exepct open and honest communication from each other
+3. We expect open and honest communication from each other
 4. We understand and accommodate each others styles and preferences
 5. Avoid ruinious empathy - we are willing to have difficult conversations with each other
 6. Push each other to be the best versions of ourselves
@@ -31,7 +31,7 @@ What it gives me that makes it so important:
 
 What it gives me that makes it so important:
 
-1. To Know that I am doing work that matters
+1. To know that I am doing work that matters
 2. The satisfaction from creating positive change in the world
 3. A sense of growth and progression
 4. A sense of success and accomplishment
@@ -42,10 +42,10 @@ What it gives me that makes it so important:
 
 1. Trying new things
 2. Becoming better than I was yesterday
-3. Intellectual Stimulation
+3. Intellectual stimulation
 4. Security that I am better prepared for the future
 5. Deriving wisdom and experiences from others - continuously expanding my worldview and the mental toolkit that I can draw from.
 
-I am the most energenized when my actions and behaviours are aligned with my values, or the values of the environment I am in (the people, the organization) are either compatible with my values or support my expression of my vales.
+I am the most energized when my actions and behaviours are aligned with my values, or the values of the environment I am in (the people, the organization) are either compatible with my values or support my expression of these values.
 
-I am the least energenized when my actions and behaviours are in conflict with my values, either because I am operating from a place of fear, or because the environment I am in is not compatible with my values.
+I am the least energized when my actions and behaviours are in conflict with my values, either because I am operating from a place of fear, or because the environment I am in is not compatible with my values.
