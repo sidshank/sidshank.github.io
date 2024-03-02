@@ -3,10 +3,6 @@ layout: index
 permalink: /
 ---
 
-Hello World! I'm currently a Senior Engineering Manager at [GitHub](http://github.com/) on one of the [CodeQL](https://codeql.github.com/) static language teams supporting C# and Go. 
+Hello World! I'm currently a Senior Engineering Manager at [GitHub](http://github.com/) serving the [CodeQL](https://codeql.github.com/) dynamic languages team, supporting JavaScript/TypeScript, Python and Ruby.
 
-### Some things about me
-
-{% include_relative about_content.md %}
-
-![Sid enjoying the view from the Miradouro de Santa Luzia, overlooking tiled roofs and churches in the Alfama neighbourhood of Lisbon, as well as the Tejo estuary](/images/Sid-in-Lisbon.jpeg){:class="img-responsive"}
+### Posts
