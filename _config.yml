@@ -1,5 +1,7 @@
-title: Sid's GitHub page
-description: Engineering Manager
+title: Sid Shankar
+description: Engineering Management and Technical Leadership
+author:
+  name: Sid Shankar
 remote_theme: benbalter/retlab
 lang: en-US
 
@@ -25,7 +27,7 @@ contact_links:
     url: https://github.com/sidshank
     icon: fa-brands fa-github
 
-# Front matter defaults
+permalink: "/:year/:month/:day/:title/"
 defaults:
   -
     scope:
