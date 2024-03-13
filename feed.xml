@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Sid Shankar - Engineering Manager and Technical Leadership</title>
+  <link>https://sidshank.github.io/</link>
+  <description>About Sid Shankar</description>
+  <atom:link href="https://sidshank.github.io/feed.xml" rel="self" type="application/rss+xml" />
+  {% for post in site.posts %}
+  <item>
+    <title>{{ post.title }}</title>
+    <link>https://sidshank.github.io{{ post.url }}</link>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <description>{{ post.content | xml_escape }}</description>
+  </item>
+  {% endfor %}
+</channel>
+</rss>

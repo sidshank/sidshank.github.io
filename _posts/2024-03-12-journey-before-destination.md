@@ -1,6 +1,7 @@
 ---
 title: "Journey before destination"
 date: 2024-03-12
+content: "Thoughts on a short story from The Stormlight Archive"
 ---
 Earlier this year, I discovered the [Cosmere](https://en.wikipedia.org/wiki/Cosmere) - a universe created by [Brandon Sanderson ](https://en.wikipedia.org/wiki/Brandon_Sanderson) that spans multiple series of books. In particular, I started reading [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) series, and even at ~1200 pages a book I was so caught up in the story that I was done with the first four books by early February.
 
