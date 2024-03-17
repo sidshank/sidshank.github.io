@@ -2,6 +2,7 @@
 title: "Like a dog watching TV"
 date: 2024-03-05
 content: "Awareness of your own comprehension level in a shared context"
+layout: post
 ---
 
 This isn't a serious post. If you're looking for deep insight, you're in the wrong place.
