@@ -1,6 +1,6 @@
 ---
 title: "The Line Manager Multiverse"
-date: 2024-03-21
+date: 2024-03-27
 content: "The range of possibilities for line managers in tech is vast"
 ---
 
