@@ -10,6 +10,8 @@ _The impostor phenomenon (IP) is defined as an internal experience of intellectu
 
 And in that same paper, one of the "preconditions" listed for impostor syndrome is a "fear of failure", presumably from being put in new or unfamiliar situations. 
 
+(The paper itself is a great read, focusing on the effects of imposter syndrome on career development. It's ironic that I quote it because I'm about to say a few words about the inverse - the **effect of career development on impostor syndrome**)
+
 I'm oversimplifying and there's a **lot** more to it, but I wonder about the role played by the period of zero interest rate policy (ZIRP) - particularly in the US and Canada - that started in the aftermath of the 2008 financial crisis. With a massive influx of capital into the tech industry from VCs and other sources in the years that followed, new companies were born and existing ones grew at a frenetic pace. This led to an unquenchable demand for tech talent leading to a lot of mobility between companies AND within companies, and a lot of this mobility was accompanied by promotions and raises.
 
 How many people were quickly promoted into roles they weren't ready for? How many people were given responsibilities that they didn't feel they could handle?
