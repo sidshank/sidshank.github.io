@@ -18,4 +18,4 @@ If I can’t “perform” my skills and experience, this inevitably leads to a 
 
 Over the long term, I want to be mindful of the skills and experience I’m gathering and make sure I’m finding opportunities to “perform” them.
 
-Something to ponder, or ask yourself: ***If my work isn’t “sparking joy” (sorry Marie Kondo) lately, is it because I am not “performing”? Not in the strict “performance management” sense, but in the sense of not using the skills and experience I value?***
+Something to ponder, or ask yourself: ***If my work isn’t “sparking joy” (sorry Marie Kondo) lately, is it because I am not “performing”? Not in the strict “performance management” sense, but in the sense of not being able to use the skills and experience I value?***
