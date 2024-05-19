@@ -20,4 +20,4 @@ Over the long term, I want to be mindful of the skills and experience I’m gath
 
 Questions to ponder:
 1. ***If my work isn’t “sparking joy” (sorry Marie Kondo) lately, is it because I am not “performing”? Not in the strict “performance management” sense, but in the sense of not being able to use the skills and experiences I value?***
-2. ***If I am working on (or want to work on) things that bring me joy, but these things aren't valued in my organizational context, can I ever be considered a high performer?***
+2. ***If I am working on (or want to work on) things that bring me joy, and are valuable to the organization, but aren't valued in the context of my team, can I ever be considered a high performer?***
