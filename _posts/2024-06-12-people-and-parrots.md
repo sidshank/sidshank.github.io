@@ -1,7 +1,7 @@
 ---
 title: "People and Parrots"
 date: 2024-06-12
-content: ""
+content: "In an era of increasingly advanced technological parrots, you add value by becoming an increasingly advanced human."
 ---
 
 ## Bottom line(s) on top
