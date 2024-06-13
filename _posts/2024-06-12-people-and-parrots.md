@@ -7,7 +7,7 @@ content: "In an era of increasingly advanced technological parrots, you add valu
 ## Bottom line(s) on top
 
 - The challenges in any organization are not just the direct and obvious problems that need to be solved, but **also the organizational context they are being solved in**.
-- The hallmark of great thinkers and problem solvers is their ability to employ a combination of pattern matching (taking organizational context into account) and “first principles” thinking to attack a problem. In the absence of this, you get “When I worked at <name drop FAANG category companies>, we did X”.
+- The hallmark of great thinkers and problem solvers is their ability to employ a combination of pattern matching (taking organizational context into account) and “first principles” thinking to attack a problem. In the absence of this, you get “When I worked at &lt;name drop FAANG category companies&gt;, we did X”.
 - The most successful problem solvers have exposure to a wide range of patterns ("training data"), carefully consider organizational and other context when framing the problem (”the prompt”) - sometimes a large amount of it (”number of tokens”) and can fill in any gaps, sometimes through a first-principles approach (”intelligence” / “the magic”).
 
 If you're interested in the long version, read on.
@@ -24,9 +24,9 @@ Then the interview happens - and it often ends up being a conversation where exp
 
 **Interviewer**: “Tell me about a time when…”
 
-**Interviewee**: “<Situation> - <Task> - <Action> - <Result>” (Breaks it down perfectly, is _very_ articulate and convincing)
+**Interviewee**: “&lt;Situation&gt; - &lt;Task&gt; - &lt;Action&gt; - &lt;Result&gt;” (Breaks it down perfectly, is _very_ articulate and convincing)
 
-**Interviewer**: “<Star Struck> You’re perfect! When can you start!?”
+**Interviewer**: “&lt;Star Struck&gt; You’re perfect! When can you start!?”
 
 This is an obvious parody of the interview process, but also not too far from the truth.
 
@@ -63,5 +63,5 @@ What is the interviewee able to tell their interviewer about facing _novel_ situ
 ## Bottom line(s)
 
 - The challenges in any organization are not just the direct and obvious problems that need to be solved, but **also the organizational context they are being solved in**.
-- The hallmark of great thinkers and problem solvers is their ability to employ a combination of pattern matching (taking organizational context into account) and “first principles” thinking to attack a problem. In the absence of this, you get “When I worked at <name drop FAANG category companies>, we did X”.
+- The hallmark of great thinkers and problem solvers is their ability to employ a combination of pattern matching (taking organizational context into account) and “first principles” thinking to attack a problem. In the absence of this, you get “When I worked at &lt;name drop FAANG category companies&gt;, we did X”.
 - The most successful problem solvers have exposure to a wide range of patterns ("training data"), carefully consider organizational and other context when framing the problem (”the prompt”) - sometimes a large amount of it (”number of tokens”) and can fill in any gaps, sometimes through a first-principles approach (”intelligence” / “the magic”).
