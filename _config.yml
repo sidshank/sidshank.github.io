@@ -17,7 +17,7 @@ nav_pages:
 # Links to include on the contact page
 contact_links:
   - name: LinkedIn
-    url: https://www.linkedin.com/in/engineer-sid-shankar/
+    url: https://www.linkedin.com/in/shankarsid/
     icon: fa-brands fa-linkedin
   - name: GitHub
     url: https://github.com/sidshank
