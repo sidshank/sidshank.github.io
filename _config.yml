@@ -16,9 +16,6 @@ nav_pages:
 
 # Links to include on the contact page
 contact_links:
-  - name: Twitter
-    url: https://twitter.com/SidShankar_
-    icon: fa-brands fa-twitter
   - name: LinkedIn
     url: https://www.linkedin.com/in/engineer-sid-shankar/
     icon: fa-brands fa-linkedin
