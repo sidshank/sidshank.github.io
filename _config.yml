@@ -8,7 +8,6 @@ lang: en-US
 # Pages to include in header navigation
 nav_pages:
   - about.md
-  - favourite-frameworks.md
   - values.md
 
 # Pages to include in footer navigation
