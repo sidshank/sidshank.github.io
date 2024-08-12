@@ -10,7 +10,7 @@ We took a trip to Costa Rica in the middle of July - a break my wife and I were 
 
 The trip home was affected by flight delays (thanks CrowdStrike!), and in the end, we were just glad to be back. One of those trips where you need a vacation from the vacation.
 
-![Crocodiles on the banks of the Tarcoles river, as seen from a pedestrian and traffic bridge above](./images/crocs-in-the-tarcoles-river.jpg)
+![Crocodiles on the banks of the Tarcoles river, as seen from a pedestrian and traffic bridge above](assets/images/crocs-in-the-tarcoles-river.jpg)
 
 This has been another year full of reading. To expand on my work-related knowledge, I've gone through (or am going through):
 1. Web Authentication Handbook by Sambit Kumar Dash to refresh my knowledge of authentication protocols
