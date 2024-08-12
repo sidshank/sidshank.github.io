@@ -18,7 +18,7 @@ How many people were quickly promoted into roles they weren't ready for? How man
 
 Running the term "Impostor Syndrome" through Google Trends, I noticed an uptick starting in 2010.
 
-![A graph showing the count of searches for the term - impostor syndrome - over time, from 2004 to 2024](assets/images/impostor-syndrome-searches.png)
+![A graph showing the count of searches for the term - impostor syndrome - over time, from 2004 to 2024](/assets/images/impostor-syndrome-searches.png)
 
 Not conclusive by any means, but it's interesting to think about the correlation between the two.
 
