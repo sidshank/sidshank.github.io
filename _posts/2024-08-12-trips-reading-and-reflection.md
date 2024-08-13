@@ -19,7 +19,7 @@ This has been another year full of reading. To expand on my work-related knowled
 
 I completed the first one, and I'm going through the other two. The goal is to read through at least a few pages a day of either one (ideally a full chapter).
 
-I've also been reading a lot of fiction, specifically books by Brandon Sanderson. I've been so immersed in the Cosmere universe that has masterfully weaved together, that I just can't enough. I've gone through:
+I've also been reading a lot of fiction, specifically books by Brandon Sanderson. I've been so immersed in the Cosmere universe that Sanderson masterfully weaves together, that I just can't enough. I've gone through:
 1. The first four books in the Stormlight Archive series
 2. Two novellas conencted to the Stormlight Archive series - Warbreaker and Edgedancer
 3. All of his Kickstarter books - Tress of the Emerald Sea, The Frugal Wizard's Handbook for Surviving Medieval England, The Sunlit Man, and Yumi and the Nightmare Painter
